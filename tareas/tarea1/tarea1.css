@@ -51,9 +51,12 @@ nav ul li {
 }
 aside{
     float: left;
-    width: 20%;
+    width: calc(20% - 20px);
     min-height: 500px;
     background: orange;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
 }
 footer{
     background: black;
@@ -61,6 +64,6 @@ footer{
     text-align: center;
     height: 50px;
     line-height: 50px;
-    
+
 
 }
