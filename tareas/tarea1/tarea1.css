@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 body{
     background: lightgray;
     font-family: Arial, Helvetica, sans-serif;
