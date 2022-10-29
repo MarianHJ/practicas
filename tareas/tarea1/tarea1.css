@@ -4,9 +4,11 @@ body{
 }
 
 #container{
-
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
 }
 
 .article{
-    
+
 }
