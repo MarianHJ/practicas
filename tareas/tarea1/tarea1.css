@@ -19,5 +19,15 @@ header{
     height: 100px;
     width: 100%;
     margin: 0px;
+    text-align: center;
+    line-height: 100px;
+    color: beige;
+    border-bottom: 3px dashed black;
+    
+}
+nav ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
     
 }
