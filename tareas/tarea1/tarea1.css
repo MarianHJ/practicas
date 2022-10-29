@@ -45,9 +45,10 @@ nav ul li {
 }
 #content{
     float: left;
-    width: 80%;
+    width: calc(80% - 80px);
     min-height: 500px;
     background: green;
+    padding: 40px;
 }
 aside{
     float: left;
