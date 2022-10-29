@@ -25,9 +25,21 @@ header{
     border-bottom: 3px dashed black;
     
 }
+
+nav{
+    background: lightblue;
+    height: 50px;
+    border-bottom: 1px solid black;
+
+}
+
 nav ul li {
     float: left;
     list-style: none;
     margin: 10px;
-    
+    line-height: 30px;
+
+}
+.clearfix{
+    clear: both;
 }
