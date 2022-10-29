@@ -43,3 +43,24 @@ nav ul li {
 .clearfix{
     clear: both;
 }
+#content{
+    float: left;
+    width: 80%;
+    min-height: 500px;
+    background: green;
+}
+aside{
+    float: left;
+    width: 20%;
+    min-height: 500px;
+    background: orange;
+}
+footer{
+    background: black;
+    color: beige;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    
+
+}
