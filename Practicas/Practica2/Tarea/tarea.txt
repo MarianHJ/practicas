@@ -1,0 +1,8 @@
+Practica
+    Etiquetas para imagenes/links/videos en html
+
+Tarea
+    Usando la tarea anterior (copiala y pegala dentro de la carpeta tarea de la practica 2) haz que el menu sea funcional, crea una pagina en la que se muestre una imageny otra con un video
+
+EXITO! 😘
+
